@@ -1,0 +1,13 @@
+# Pastas de dados e relatórios
+Data/
+Relatorios/
+
+# Arquivo de variáveis secretas
+.env
+
+# Arquivos temporários e caches
+__pycache__/
+*.pyc
+*.pyo
+*.log
+*.pdf

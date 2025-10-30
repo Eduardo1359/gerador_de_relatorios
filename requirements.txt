@@ -1,0 +1,4 @@
+pandas
+pdfkit
+python-dotenv
+PyPDF2
